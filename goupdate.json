@@ -1,6 +1,7 @@
 {
-  "version_code": 2,
+  "version_code": 1,
+  "version_name": "Flying Dutchman",
   "forceUpdate": true,
-  "message": "Belum",
+  "message": "Pembaruan penting telah tersedia.",
   "download_url": "https://github.com/hwijaya2025-spec/Update-Hanma-TV/releases/download/Update/app-debug.apk"
 }
