@@ -2,14 +2,14 @@
   "version_code": 2,
   "version_name": "Novorepnoye 2",
   "download_url": "https://github.com/hwijaya2025-spec/update/releases/download/update/TB2-universal-release.apk",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "message": "Pembaruan versi terbaru telah tersedia.",
 
   "show_notice": false,
   "notice_title": "DNS Custom",
   "notice_message": "Khusus pengguna yang menggunakan kartu XL atau MIFI CAT4 wajib gunakan DNS Custom SNI CloudFlare (one.one.one.one) thanks",
 
-  "show_maintenance": false,
+  "show_maintenance": true,
   "maintenance_title": "Aplikasi Dalam Perbaikan",
   "maintenance_message": "Aplikasi sedang dalam pemeliharaan rutin. Silakan coba beberapa saat lagi."
 }
